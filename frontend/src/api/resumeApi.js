@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://mock-resume-editor.onrender.com";
 
 export async function enhanceSection({ section, content }) {
   const res = await axios.post(`${BASE_URL}/ai-enhance`, { section, content });
