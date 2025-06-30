@@ -1,12 +1,8 @@
 {
-  "name": "[Enhanced] John Doe",
-  "summary": "[Enhanced] [Enhanced] Experienced software engineer...",
+  "name": "John Doe",
+  "summary": "Experienced software engineer...",
   "experience": [
-    {
-      "title": "Software Developer",
-      "company": "ABC Corp",
-      "duration": "2020-2023"
-    }
+    "[Enhanced] {\"title\":\"Frontend Developer\",\"company\":\"ABC Corp\",\"duration\":\"2020-2023\"}"
   ],
   "education": [
     {
