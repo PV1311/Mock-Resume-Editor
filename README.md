@@ -11,7 +11,11 @@ A web-based Resume Editor built for internship assessment. This app allows users
 
 ## 📁 Folder Structure
 
-<pre> ````markdown ``` Resume-Editor/ ├── frontend/ # React.js (Vite) + Tailwind CSS + React Query └── backend/ # FastAPI backend (Python) ``` ```` </pre>
+```
+Resume-Editor/
+├── frontend/   # React.js (Vite) + Tailwind CSS + React Query
+└── backend/    # FastAPI backend (Python)
+```
 
 ---
 
