@@ -1,0 +1,23 @@
+{
+  "name": "[Enhanced] John Doe",
+  "summary": "[Enhanced] [Enhanced] Experienced software engineer...",
+  "experience": [
+    {
+      "title": "Software Developer",
+      "company": "ABC Corp",
+      "duration": "2020-2023"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech CSE",
+      "institute": "XYZ University",
+      "year": "2019"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "React",
+    "Python"
+  ]
+}
